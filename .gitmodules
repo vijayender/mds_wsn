@@ -1,6 +1,6 @@
 [submodule "annealing"]
 	path = annealing
-	url = /home/vijayender//wsn/mds/code/annealing/
+	url = git://github.com/vijayender/annealing
 [submodule "mycode"]
 	path = mycode
-	url = /home/vijayender//wsn/mds/code/mycode/
+	url = git://github.com/vijayender/mds_wsn_mycode
