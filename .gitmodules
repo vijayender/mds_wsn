@@ -1,0 +1,6 @@
+[submodule "annealing"]
+	path = annealing
+	url = /home/vijayender//wsn/mds/code/annealing/
+[submodule "mycode"]
+	path = mycode
+	url = /home/vijayender//wsn/mds/code/mycode/
